@@ -1,0 +1,4 @@
+BOX-SHADOW
+        Requireq => <x-offset> <y-offset> <blur> <color>;
+        Optional => <inset> <x-offset> <y-offset> <blur> <spread> <color>; 
+        (inset{bayangan kedalam box} dan spread[satuan angka/px] adlh opsional)

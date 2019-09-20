@@ -1,0 +1,6 @@
+BROWSER SUPPORT EKSTENTION FORMAT
+    1. TTF /OTF [trutipeformat] = tipe standar namun tidak spesifik utk pnggunaan web(lambat).
+    2. WOFF = cepat karna khusus utk penggunaan web
+    3. WOFF2
+    4. SVG
+    5. EOT

@@ -1,0 +1,9 @@
+TRANSFORM :
+            transform : <fungsi>;
+
+
+            Fungsi transformasi:
+            ==> scale : memperbesar/memperkecil;
+                rotate : memutar;
+                skew : membuat condong atau miring;
+                translate: mengubah pisisi;

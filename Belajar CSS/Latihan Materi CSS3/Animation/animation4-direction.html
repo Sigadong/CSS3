@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Animation</title>
+    <style>
+        .kotak{
+            width: 200px;
+            height: 200px;;
+            background-color: salmon;
+            text-align: center;
+            line-height: 200px;
+            /* animation: animasiKotak 2s ease 2 normal; */
+            /* animation: animasiKotak 2s ease 2 reverse; */
+            /* animation: animasiKotak 2s ease 2 alternate; */
+            animation: animasiKotak 2s ease 2 alternate-reverse;
+        }    
+
+        @keyframes animasiKotak{
+            0%{
+                width: 200px;
+            }
+            50%{ 
+                width: 500px;
+                height: 200px;
+            }
+            100%{ 
+                width: 500px;
+                height: 500px;
+            }
+        }
+    </style>
+</head>
+<body>
+     <div class="kotak">Animasi</div>
+</body>
+</html>

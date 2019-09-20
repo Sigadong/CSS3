@@ -1,0 +1,7 @@
+TRANSITION :
+        [propery] [<durasi>] [fungsi] [delay];
+
+
+
+
+        nb: W3C => [fungsi/timing function]

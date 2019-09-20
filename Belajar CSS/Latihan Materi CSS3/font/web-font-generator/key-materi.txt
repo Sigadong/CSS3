@@ -1,0 +1,17 @@
+    ### WOFF/WOFF2 ###
+@font-face {
+    font-family: 'nama_font_baru';
+    src: url('lokasi/file/font_baru.woff') format('woff'),
+    url('lokasi/file/font_baru.WOFF2') format('woff2');
+}
+
+        ### WOFF/WOFF2 ###
+ a. WOFF=> Web Open File format.
+ b. Dikembangkan oleh Mozila.
+ c. Dibuat khusus untuk website.
+ d, Di-load lebih cepat dari pada jenis font yang lain
+ c. Merupakan kompresi dari tipe TTF/OTF
+
+ NB : Dengan menggunakan Web Font Generator miliknya "fontsquirrel.com/tools/webfont-generator" kita
+    dapat mengubah  yg sebelumnya format TTF menjadi format WOFF .
+     caranya dengan mengunduh file TTF tsb ke situsnya dan pilih settingan 'optimal' dan centang yes;
